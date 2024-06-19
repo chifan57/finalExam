@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btnLeft"
+        android:icon="@drawable/left" />
+    <item
+        android:id="@+id/btnMid"
+        android:icon="@drawable/middle" />
+    <item
+        android:id="@+id/btnRight"
+        android:icon="@drawable/right" />
+</menu>
